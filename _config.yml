@@ -17,7 +17,7 @@ description: All tech, all awesome, all the time.
 # Options: amelia, cerulean, cosmo, cyborg, default, flatly, journal, 
 # readable, simplex, slate, spacelab, spruce, superhero, and united.
 
-theme: spacelab
+theme: flatly
 
 # Set your github and twitter username for user throughout the site.
 
@@ -28,13 +28,13 @@ github-username: gmcerveny
 # Next, you will have to create a new blog entry in the _posts directory.
 # See the example file in that directory for details.
 
-blog-enabled: true
+blog-enabled: false
 
 # Do you want a photo gallery on your site? If so, set this to true.
 # This feature requires you to upload your photos to Picasa.
 # Set you picasa user id and all your public albums will be displayed.
 
-photo-gallery-enabled: true
+photo-gallery-enabled: false
 picasa-user-id: 106930217921539674382
 
 # Pygments allows for code syntax highlighting. All of the built-in
